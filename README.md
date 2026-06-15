@@ -1,4 +1,4 @@
-# A\B test comparison
+# A/B test comparison
 
 ## Overview
 
